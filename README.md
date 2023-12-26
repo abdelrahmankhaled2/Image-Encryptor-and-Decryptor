@@ -8,4 +8,4 @@ This Python script provides a simple GUI-based application for encrypting and de
 
 1. Run the script using Python.
    ```bash
-   ./script_name.py
+   ./Main.py
